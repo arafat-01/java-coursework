@@ -1,2 +1,2 @@
-# java-coursework
+# java coursework
 Assignment codes from Java coursework.
